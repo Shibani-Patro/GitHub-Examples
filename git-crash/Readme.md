@@ -36,12 +36,29 @@ gh repo clone Shibani-Patro/GitHub-Examples
 
 ## remotes
 
+we can add remote often via upstream when adding branch
+```sh
+git remote add .
+git branch -u origin new-feature
+```
+
 ## stashing
+ ```sh
+ git stash
+ git stash list
+ git stash pop
+ git stash apply
+ git stash save name
+ ```
 
 
  
 ## merging
 
+```sh
+git checkout dev
+git merge main
+```
 
 ## Reset
 allows to move staged changes to be unstaged.
