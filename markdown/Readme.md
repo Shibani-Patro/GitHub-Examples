@@ -1,0 +1,11 @@
+## markdown examples
+- headings
+- unordered list
+- ordered list
+- text foramatting
+- code
+- tables
+- images
+- links
+- autolists
+- lists
